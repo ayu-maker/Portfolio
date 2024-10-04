@@ -4,7 +4,7 @@ This is a Personal Portfolio Website built using HTML, CSS, JavaScript, and Boot
 <!-- Add a screenshot of your website -->
 
 🚀 Live Demo
-You can check out the live version of my portfolio here. <!-- Add your live site URL here -->
+You can check out the live version of my portfolio here:  " https://ayushtyagiportfolio.netlify.app"
 
 📄 Features
 Responsive Design: The website is fully responsive and adapts to different screen sizes using Bootstrap.
